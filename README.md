@@ -1,0 +1,1 @@
+This repo is meant to teach javascript with demos.
